@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on ...
+- 🔭 I’m currently working on ...
 - 🌱 I’m currently learning JavaScript, TypeScript and React
 - 👯 I’m looking to collaborate on new projects
 
