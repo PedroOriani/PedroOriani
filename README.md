@@ -1,4 +1,4 @@
-### 👋 Hi there. I'm Pedro Oriani
+<h1>👋 Hi there. I'm Pedro Oriani</h1>
 
 
 - 🔭 I’m currently working with enginieering in Traumec
