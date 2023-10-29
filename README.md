@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning JavaScript, TypeScript and React
 - 👯 I’m looking to collaborate on new projects, creating softwares and websites
 
-<h2>Languages and Technologies</h2>
+<h2> 💻 Languages and Technologies</h2>
   <div style='display: inline_block'>
     <img align='center' width='40' heigth='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align='center' width='40' heigth='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
@@ -23,12 +23,18 @@
     <img align='center' width='40' heigth='30' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />        
   </div>
 
-  <h2>GitHub Stats</h2>
+  <h2> 📊 GitHub Stats</h2>
   <div>
     <a href=https://github.com/PedroOriani/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroOriani&show_icons=true&theme=radical" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroOriani&theme=radical&layout=compact"/>
   </div>
+
+  <h2> 📞 How to contact me</h2>
+    <div>
+      <a href="https://www.linkedin.com/in/pedro-oriani/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+      <a href="pedro.oriani@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    </div>
 
 <!--
 **PedroOriani/PedroOriani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
