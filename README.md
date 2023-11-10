@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working with enginieering in Traumec
-- 🌱 I’m currently learning JavaScript, TypeScript and React
+- 🌱 I’m currently learning JavaScript, TypeScript and React, and i pretend to become a web developer
 - 👯 I’m looking to collaborate on new projects, creating softwares and websites
 
 <h2> 💻 Languages and Technologies</h2>
