@@ -1,8 +1,8 @@
 <h1>👋 Hi there. I'm Pedro Oriani</h1>
 
 
-- 🔭 I’m currently working with enginieering in Traumec
-- 🌱 I’m currently learning Java
+- 🔭 I'm an Materials and Manufacturing Engeneer in career transition
+- 🌱 I’m currently learning C# and .NET
 - 👯 I’m looking to collaborate on new projects, creating softwares and websites
 
 <h2> 💻 Languages and Technologies</h2>
