@@ -2,7 +2,7 @@
 
 
 - 🔭 I'm an Materials and Manufacturing Engeneer in career transition
-- 🌱 I’m currently learning C# and .NET
+- 🌱 I’m currently learning Go
 - 👯 I’m looking to collaborate on new projects, creating softwares and websites
 
 <h2> 💻 Languages and Technologies</h2>
