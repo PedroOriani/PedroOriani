@@ -74,6 +74,7 @@
             <img align='center' width='70' heigth='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
             <img align='center' width='70' heigth='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prometheus/prometheus-plain-wordmark.svg" />
             <img align='center' width='70' heigth='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/k6/k6-original.svg" />
+            <img align='center' width='70' heigth='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eslint/eslint-plain-wordmark.svg" />
           </div>
         </td>
       </tr>
